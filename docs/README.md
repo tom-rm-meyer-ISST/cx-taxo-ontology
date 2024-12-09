@@ -87,7 +87,7 @@ The following links lead to individual Catena-X domain ontology descriptions:
     - [v23.12](https://w3id.org/catenax/v23.12/ontology/vehicle) ~ [Direct](https://raw.githubusercontent.com/big-data-spaces/ontology/v23.12/ontology/vehicle_ontology.ttl)
     - [v23.09](https://w3id.org/catenax/v23.09/ontology/vehicle) ~ [Direct](https://raw.githubusercontent.com/big-data-spaces/ontology/v23.09/ontology/vehicle_ontology.ttl)
 - Reliability Ontology
-  - [Current](https://w3id.org/catenax/ontology/reliability) ~ [v24.12](https://w3id.org/catenax/v24.12/ontology/reliability) ~ [Direct](https://raw.githubusercontent.com/big-data-spaces/ontology/v24.12/ontology/reliability_ontology.ttl) ~ [Documentation](https://github.com/big-data-spaces/ontology/blob/v24.12/docs/relibility_ontology.md)
+  - [Current](https://w3id.org/catenax/ontology/reliability) ~ [v24.12](https://w3id.org/catenax/v24.12/ontology/reliability) ~ [Direct](https://raw.githubusercontent.com/big-data-spaces/ontology/v24.12/ontology/reliability_ontology.ttl) ~ [Documentation](https://github.com/big-data-spaces/ontology/blob/v24.12/docs/reliability_ontology.md)
   - [Next](https://w3id.org/catenax/next/ontology/reliability) ~ [Direct](https://raw.githubusercontent.com/big-data-spaces/ontology/main/ontology/reliability_ontology.ttl)
   - Outdated:
     - [v24.08](https://w3id.org/catenax/v24.08/ontology/reliability) ~ [Direct](https://raw.githubusercontent.com/big-data-spaces/ontology/v24.08/ontology/reliability_ontology.ttl)
